@@ -176,7 +176,7 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     flexDirection: "row",
     backgroundColor: "#9DFD24",
-    borderColor: "#FFFFFF"
+    borderColor: "#FFFFF1"
   },
   textinput: {
     width: "57%",
